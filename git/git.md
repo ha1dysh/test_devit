@@ -1,0 +1,3 @@
+- git pull origin dev
+- git merge dev
+- git commit -m "merged dev into task_4"
